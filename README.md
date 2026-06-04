@@ -40,15 +40,6 @@ ArchCanvas is a browser-native visual sandbox that translates folder hierarchies
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x2dat&show_icons=true&theme=dracula" alt="x2dat stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x2dat&layout=compact&theme=dracula" alt="x2dat Top languages" />
-</p>
-
----
-
 <!-- Generated with GitProfile Studio -->
 <p align="center">
   <a href="https://x2dat.github.io/GitProfile/">
