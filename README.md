@@ -6,7 +6,7 @@
   </a>
 </p>
 
-I'm a frontend-focused developer passionate about building clean, glassmorphic, and high-performance developer tools that live in the browser. 
+I'm a frontend-focused developer passionate about building clean, aesthetic, and high-performance developer tools that live in the browser. 
 
 ---
 
