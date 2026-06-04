@@ -14,7 +14,7 @@ I'm a frontend-focused developer passionate about building clean, aesthetic, and
 
 Here's my current project I'm working on:
 
-### 🌐 [ArchCanvas](https://github.com/x2dat/ArchCanvas/)
+### 1.🌐 [ArchCanvas](https://github.com/x2dat/ArchCanvas/)
 ArchCanvas is a browser-native visual sandbox that translates folder hierarchies into interactive codebase maps.
 * **Tech Stack**: React 19, TypeScript, Vite
 ---
