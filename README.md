@@ -12,17 +12,9 @@ I'm a frontend-focused developer passionate about building clean, aesthetic, and
 
 ## 🛠️ Featured Showcases
 
-Here are some of the interactive tools I've built:
+Here's my current project I'm working on:
 
-### 1. 🌐 [WebQuest](https://x2dat.github.io/WebQuest/)
-A browser-native alternative to Postman designed to test endpoints and simulate CORS interception and mock responses with zero network overhead.
-* **Tech Stack**: React 19, TypeScript, Pure CSS
-
-### 2. 🎨 [GitProfile Studio](https://x2dat.github.io/GitProfile/)
-An interactive visual builder to drag-and-drop components, customize stats, check brand icon grids, and instantly generate GitHub Profile READMEs.
-* **Tech Stack**: React 19, TypeScript, Local Storage Syncing
-
-### 3. 🌐 [ArchCanvas](https://github.com/x2dat/ArchCanvas/)
+### 🌐 [ArchCanvas](https://github.com/x2dat/ArchCanvas/)
 ArchCanvas is a browser-native visual sandbox that translates folder hierarchies into interactive codebase maps.
 * **Tech Stack**: React 19, TypeScript, Vite
 ---
